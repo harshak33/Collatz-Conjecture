@@ -1,5 +1,4 @@
 #include<iostream>
-#include<vector>
 int main()
 {
     unsigned long long int a,b;
